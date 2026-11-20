@@ -1,0 +1,13 @@
+# your own settings and everything made while playing (incl. pictures read from your game files)
+profiles/
+runtime/
+# downloaded by Soul Link when needed (not part of this project)
+Randomizer/
+BizHawk/
+# game files never belong here
+*.nds
+*.zip
+*.State
+# leftovers
+*.part
+*.tmp
