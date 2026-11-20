@@ -1,13 +1,13 @@
 # Soul Link for the Pokémon DS games
 
-Play a Nuzlocke or Soul Link Nuzlocke with friends: you see each other walking around
+Play Soul Link Nuzlocke with friends: you see each other walking around
 as real in-game characters, and the Soul Link panel tracks everyone's encounters,
 links and deaths. Works with:
 
 | Region | Games |
 |---|---|
 | Unova | Black, White |
-| Unova (two years later) | Black 2, White 2 |
+| Unova | Black 2, White 2 |
 | Sinnoh | Diamond, Pearl, Platinum |
 | Johto | HeartGold, SoulSilver |
 
