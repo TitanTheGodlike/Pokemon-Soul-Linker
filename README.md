@@ -1,8 +1,8 @@
-# Soul Link for the Pokémon DS games
+# Soul Link for the Pokémon DS and 3DS games
 
 Play Soul Link Nuzlocke with friends: you see each other walking around
 as real in-game characters, and the Soul Link panel tracks everyone's encounters,
-links and deaths. Works with:
+links and deaths. This program is not perfect expect bugs and or glitches. Works with:
 
 | Region | Games |
 |---|---|
